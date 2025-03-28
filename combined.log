@@ -1,0 +1,48 @@
+{"level":"info","message":"Parameters 9 and 7 received for addition","service":"add-service"}
+{"level":"info","message":"Parameters 9 and 10 received for addition","service":"add-service"}
+{"level":"info","message":"Parameters 10 and 10 received for addition","service":"add-service"}
+{"level":"info","message":"Parameters 10 and 10 received for subtraction","service":"add-service"}
+{"level":"info","message":"Parameters 10 and 10 received for subtraction","service":"add-service"}
+{"level":"info","message":"Parameters 10 and 10 received for multiplication","service":"add-service"}
+{"level":"info","message":"Parameters 10 and 10 received for multiplication","service":"add-service"}
+{"level":"info","message":"Parameters 10 and 10 received for multiplication","service":"add-service"}
+{"level":"info","message":"Parameters 10 and 10 received for multiplication","service":"add-service"}
+{"level":"info","message":"Parameters 10 and 10 received for multiplication","service":"add-service"}
+{"level":"info","message":"Parameters 10 and 10 received for multiplication","service":"add-service"}
+{"level":"info","message":"Parameters 10 and 10 received for subtraction","service":"add-service"}
+{"level":"info","message":"Parameters 10 and 10 received for addition","service":"add-service"}
+{"level":"info","message":"Parameters 10 and 10 received for subtraction","service":"add-service"}
+{"level":"info","message":"Parameters 70 and 10 received for subtraction","service":"add-service"}
+{"level":"info","message":"Parameters 70 and -10 received for subtraction","service":"add-service"}
+{"level":"info","message":"Parameters 70 and -10 received for addition","service":"add-service"}
+{"level":"error","message":"n2 is incorrectly defined","service":"add-service"}
+{"level":"info","message":"Parameters 70 and 8 received for addition","service":"add-service"}
+{"level":"info","message":"Parameters 10 and 10 received for addition","service":"calculator-microservice"}
+{"level":"info","message":"Parameters 10 and 10 received for addition","service":"calculator-microservice"}
+{"level":"info","message":"Parameters 10 and 10 received for addition","service":"calculator-microservice"}
+{"level":"info","message":"Parameters 10 and 1 received for addition","service":"calculator-microservice"}
+{"level":"info","message":"Parameters 10 and 1 received for addition","service":"calculator-microservice"}
+{"level":"info","message":"Parameters 10 and 1 received for addition","service":"calculator-microservice"}
+{"level":"info","message":"Parameters 10 and 1 received for addition","service":"calculator-microservice"}
+{"level":"info","message":"Parameters 10 and 1 received for addition","service":"calculator-microservice"}
+{"level":"info","message":"Parameters 10 and 1 received for addition","service":"calculator-microservice"}
+{"level":"info","message":"Parameters 10 and 1 received for addition","service":"calculator-microservice"}
+{"level":"info","message":"Parameters 10 and 1 received for addition","service":"calculator-microservice"}
+{"level":"info","message":"Parameters 10 and 1 received for addition","service":"calculator-microservice"}
+{"level":"info","message":"Parameters 10 and 1 received for addition","service":"calculator-microservice"}
+{"level":"info","message":"Parameters 10 and 1 received for addition","service":"calculator-microservice"}
+{"level":"info","message":"Operation: div, Numbers: 5, 3, Result: 1.6666666666666667","service":"calculator-microservice"}
+{"level":"info","message":"Operation: div, Numbers: 5, 3, Result: 1.6666666666666667","service":"calculator-microservice"}
+{"level":"info","message":"Operation: div, Numbers: 5, 3, Result: 1.6666666666666667","service":"calculator-microservice"}
+{"level":"info","message":"Operation: div, Numbers: 5, 3, Result: 1.6666666666666667","service":"calculator-microservice"}
+{"level":"info","message":"Operation: div, Numbers: 5, 3, Result: 1.6666666666666667","service":"calculator-microservice"}
+{"level":"info","message":"Operation: div, Numbers: 5, 3, Result: 1.6666666666666667","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input","service":"calculator-microservice"}
+{"level":"info","message":"Operation: div, Numbers: 5, 5, Result: 1","service":"calculator-microservice"}
+{"level":"info","message":"Operation: div, Numbers: 50, 5, Result: 10","service":"calculator-microservice"}
+{"level":"info","message":"Operation: div, Numbers: 50, 5, Result: 10","service":"calculator-microservice"}
+{"level":"info","message":"Operation: div, Numbers: 50, 5, Result: 10","service":"calculator-microservice"}
+{"level":"info","message":"Operation: div, Numbers: 50, 0, Result: Cannot divide by zero","service":"calculator-microservice"}
+{"level":"error","message":"Invalid number input","service":"calculator-microservice"}
