@@ -25,7 +25,9 @@ cd sit737-2025-prac4p
 
 #### Step 2: Install Dependencies
 
+```sh
 npm install express winston
+```
 
 #### Step 3: Create the Microservice
 
@@ -37,7 +39,9 @@ Add the code seen in 'calculator.js' file.
 
 To start the application, use the command:
 
+```sh
 node calculator.js
+```
 
 You should see:
 
