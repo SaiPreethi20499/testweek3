@@ -10,16 +10,18 @@ This project involves creating a microservice that performs basic arithmetic ope
 
 Ensure you have the following installed:
 
-Node.js: Download
+**Node.js:** Download
 
-Git: Download
+**Git:** Download
 
-Visual Studio Code (or any preferred code editor): Download
+**Visual Studio Code (or any preferred code editor):** Download
 
 #### Step 1: Clone the Repository
 
+```sh
 git clone https://github.com/username/sit737-2025-prac4p.git
 cd sit737-2025-prac4p
+```
 
 #### Step 2: Install Dependencies
 
