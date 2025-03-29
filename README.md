@@ -1,7 +1,14 @@
+<<<<<<< HEAD:README.md
 #### SIT737- Cloud Native Application Development ####
 ####4.1P: Building a simple calculator microservice
 
 Overview
+=======
+**SIT737- Cloud Native Application Development**
+####4.1P: Building a simple calculator microservice####
+=============================
+#### Overview
+>>>>>>> b8340cbd43e58f542835d267781feb72dafaccef:README
 
 This project involves creating a microservice that performs basic arithmetic operations (addition, subtraction, multiplication, division) using Node.js and Express. Additionally, it includes logging functionality using Winston to capture request details and errors.
 
