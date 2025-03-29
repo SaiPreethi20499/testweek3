@@ -60,13 +60,17 @@ You can test the calculator microservice by making HTTP GET requests to the /cal
 
 Here are a few examples:
 
-1. Addition Example: Open your browser to make a request:
+1. **Addition Example:** Open your browser to make a request:
 
-```sh http://localhost:3040/calculate?operation=add&num1=5&num2=5 ```
+```sh 
+http://localhost:3040/calculate?operation=add&num1=5&num2=5 
+```
 
-2. Subtraction Example: 
+2. **Subtraction Example:** 
 
-```sh http://localhost:3040/calculate?operation=sub&num1=10&num2=5 ```
+```sh 
+http://localhost:3040/calculate?operation=sub&num1=10&num2=5 
+```
 
 #### Step 6: Verify Logs
 
@@ -82,8 +86,6 @@ Once you've made changes to the code, you can push your changes to GitHub.
 
 ```sh
 git add .
-
 git commit -m "Initial commit for calculator microservice"
-
 git push -u origin main
 ```
